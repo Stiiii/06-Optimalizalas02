@@ -1,0 +1,8 @@
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\bin\Debug\06-Optimalizalas02.exe.config
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\bin\Debug\06-Optimalizalas02.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\bin\Debug\06-Optimalizalas02.pdb
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\obj\Debug\06-Optimalizalas02.csproj.AssemblyReference.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\obj\Debug\06-Optimalizalas02.csproj.SuggestedBindingRedirects.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\obj\Debug\06-Optimalizalas02.csproj.CoreCompileInputs.cache
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\obj\Debug\06-Optimalizalas02.exe
+D:\Szalai István Szoftver Tervezés és Fejlesztés\SZTF2\06-Optimalizalas02\06-Optimalizalas02\obj\Debug\06-Optimalizalas02.pdb
